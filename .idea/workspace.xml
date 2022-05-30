@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb97a452-0aa3-4f74-bf82-f9aba2d6aa22" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/my-app/src/Components/Header/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Components/StopWatches/BtnComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Components/StopWatches/DisplayComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Pages/StopWatch/StopWatch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Pages/Time/Time.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Pages/timer/Timer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/images/clock-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/images/globe-africa-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/images/hourglass-half-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/images/stopwatch-20-solid.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Timer" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/my-app" />
+  </component>
+  <component name="ProjectId" id="22b7fPNPu922COLG09RBX0vnvDq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\React-apps\Timer\my-app\src\images" />
+      <recent name="C:\Users\User\Desktop\React-apps\Timer\my-app\src\Pages" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb97a452-0aa3-4f74-bf82-f9aba2d6aa22" name="Default Changelist" comment="" />
+      <created>1640094535228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640094535228</updated>
+      <workItem from="1640094536801" duration="255000" />
+      <workItem from="1640094795001" duration="12311000" />
+      <workItem from="1640278579109" duration="7920000" />
+      <workItem from="1640299534731" duration="2000" />
+      <workItem from="1641165961238" duration="2937000" />
+      <workItem from="1641240110397" duration="1650000" />
+      <workItem from="1641417368023" duration="4000" />
+      <workItem from="1641921062031" duration="190000" />
+      <workItem from="1642001618786" duration="3000" />
+      <workItem from="1644148162387" duration="2556000" />
+      <workItem from="1644402050393" duration="431000" />
+      <workItem from="1644402770091" duration="12752000" />
+      <workItem from="1644495917210" duration="1095000" />
+      <workItem from="1644497961728" duration="866000" />
+      <workItem from="1644662892320" duration="5000" />
+      <workItem from="1646409081155" duration="275000" />
+      <workItem from="1646503753753" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1640095758862">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1640095758862" />
+    <state x="314" y="61" width="737" height="606" key="find.popup" timestamp="1640111183375">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="314" y="61" width="737" height="606" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1640111183375" />
+  </component>
+</project>
